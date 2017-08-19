@@ -5,6 +5,7 @@ Thanks to IT Connected for making this tutorial: https://youtu.be/aFI1SItR8tg
 
 
 Usage:
+
 0. You need to have the discord.py library installed to use this.
 1. Invite the bot to your server
 2. Add your Discord bot token into the code (you can get it from here: https://discordapp.com/developers/applications/me)
