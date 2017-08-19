@@ -1,0 +1,2 @@
+# SUGAR
+A Discord bot
