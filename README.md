@@ -3,7 +3,6 @@ A Discord bot
 
 Thanks to IT Connected for making this tutorial: https://youtu.be/aFI1SItR8tg
 
-
 Usage:
 
 0. You need to have the discord.py library installed to use this.
