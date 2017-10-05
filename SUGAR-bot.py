@@ -63,5 +63,9 @@ async def on_message(message):
         elif message.content.startswith("help",1):
             await client.send_message(message.channel, help_text)
 
+@client.event
+async def on_message_delete(message):
+    await client.send_message(message.channel, 'A message by {0.author.name} was deleted:\n{0.content}'.format(message))
+
 client.loop.create_task(game_changer())
 client.run(discord_app_token)
